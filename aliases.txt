@@ -1,0 +1,10 @@
+alias d="docker"
+alias dd="docker"
+alias dicker="docker"
+alias docekr=docker
+alias dockre=docker
+alias doker=docker
+alias ocker=docker
+alias doccker=docker
+alias docke=docker
+alias dokcer=docker
