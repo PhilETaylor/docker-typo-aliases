@@ -1,9 +1,5 @@
 alias cdocker=docker
 alias cocker=docker
-alias d0cker=docker
-alias d0ocker=docker
-alias d9cker=docker
-alias d9ocker=docker
 alias d="docker"
 alias dcker=docker
 alias dcocker=docker
